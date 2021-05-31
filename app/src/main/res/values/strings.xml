@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiVi App</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="rating_movie">8.1/10</string>
+    <string name="dura">Duration</string>
+    <string name="duration">4.30.21 detik</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="sinopsis_movie">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet ex a ipsum euismod rutrum non imperdiet magna. Phasellus justo dui, laoreet sed nulla eu, bibendum semper risus. Pellentesque quis tincidunt nunc. Etiam id augue consequat, ultrices est eu, luctus magna. Nullam semper ligula porta, viverra massa quis, vehicula nibh. Nunc ac dignissim dui. Sed tristique eros ac sapien vulputate pharetra. Vivamus varius orci nibh. Nunc eleifend, ligula sit amet elementum feugiat, odio ipsum ultricies dolor, vitae auctor ligula velit sed eros.</string>
+    <string name="mulai_tonton">Bagikan</string>
+    <string name="gen">Genre</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="episode">Episode</string>
+</resources>
